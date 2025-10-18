@@ -4,9 +4,9 @@ NYC Taxi Trip Analysis and Prediction Project
 🎯 Project Overview
 -------------------------------------------------------------
 
-This project explores a large, real-world dataset of New York City (NYC) taxi trips, applying various machine learning techniques to solve both **regression** and **classification** problems. <-- The double asterisks \*\* make the text **bold**.
+This project explores a large, real-world dataset of New York City (NYC) taxi trips, applying various machine learning techniques to solve both **regression** and **classification** problems.
 
-\--- <-- Renders as a horizontal line separator
+\---
 
 ⭐️ Key Objectives
 -----------------------------------------------------------
@@ -17,7 +17,7 @@ This project is segmented into two main machine learning tasks:
 
 **Goal:** Predict the exact travel time (in seconds) for a taxi journey based on environmental and trip-specific features.
 
-*   **Target Variable:** trip\_duration (Continuous, Numeric) <-- The \* creates a bulleted list item.
+*   **Target Variable:** trip\_duration (Continuous, Numeric).
     
 
 ### 2\. Vendor Classification (Classification)
