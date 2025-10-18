@@ -54,4 +54,4 @@ The following new features were created from the raw data...
 
 To run this project, you will need the following Python libraries:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pandas  numpy  matplotlib  seaborn  scikit-learn  tensorflow (for Deep Learning)   `
+pandas  numpy  matplotlib  seaborn  scikit-learn  tensorflow `
